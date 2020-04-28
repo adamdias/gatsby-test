@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: adamdias/gatsby-test
-  domain: https://dreamy-lamport-4bf10a.netlify.app
+  site_domain: https://dreamy-lamport-4bf10a.netlify.app
 
 media_folder: static/assets
 public_folder: /assets
